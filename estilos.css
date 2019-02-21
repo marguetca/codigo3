@@ -1,0 +1,4 @@
+table th:nth-child(odd), table td:nth-child(odd){
+    color: yellow;
+
+}
